@@ -1,3 +1,3 @@
 #! /bin/bash
 
-kill $(ps aux | grep java | grep websockets | awk  '{print $2}')
+kill $(ps aux | grep java | grep websockets-chat | awk  '{print $2}')

@@ -1,6 +1,6 @@
-package com.marcuschiu.springboot.websockets.controller;
+package com.marcuschiu.springboot.websockets.chat.controller;
 
-import com.marcuschiu.springboot.websockets.model.ChatMessage;
+import com.marcuschiu.springboot.websockets.chat.model.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

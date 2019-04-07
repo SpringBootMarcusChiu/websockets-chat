@@ -1,6 +1,6 @@
-package com.marcuschiu.springboot.websockets.controller;
+package com.marcuschiu.springboot.websockets.chat.controller;
 
-import com.marcuschiu.springboot.websockets.model.ChatMessage;
+import com.marcuschiu.springboot.websockets.chat.model.ChatMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

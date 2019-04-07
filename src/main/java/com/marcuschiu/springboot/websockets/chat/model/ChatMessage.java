@@ -1,4 +1,4 @@
-package com.marcuschiu.springboot.websockets.model;
+package com.marcuschiu.springboot.websockets.chat.model;
 
 public class ChatMessage {
     private MessageType type;

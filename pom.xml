@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.marcuschiu.springboot</groupId>
-	<artifactId>websockets</artifactId>
+	<artifactId>websockets-chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>websockets</name>
+	<name>websockets-chat</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

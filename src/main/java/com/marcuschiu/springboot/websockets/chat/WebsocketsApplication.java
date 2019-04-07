@@ -1,4 +1,4 @@
-package com.marcuschiu.springboot.websockets;
+package com.marcuschiu.springboot.websockets.chat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

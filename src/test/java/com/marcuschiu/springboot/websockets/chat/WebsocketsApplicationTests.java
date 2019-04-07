@@ -1,4 +1,4 @@
-package com.marcuschiu.springboot.websockets;
+package com.marcuschiu.springboot.websockets.chat;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
