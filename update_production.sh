@@ -1,6 +1,6 @@
 #! /bin/bash
 
-ssh ubunru-server.local << EOF
+ssh ubuntu-server.local << EOF
     cd websockets-chat
     git pull origin master
     ./kill.sh
