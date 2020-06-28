@@ -24,7 +24,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
     public void registerStompEndpoints(StompEndpointRegistry registry) {
 
         // .withSockJS() - SockJS is used to enable fallback options for browsers that don’t support websocket
-        registry.addEndpoint("/ws").withSockJS();
+        registry.addEndpoint("/ws").setAllowedOrigins("*").withSockJS();
     }
 
     /**
